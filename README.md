@@ -13,7 +13,7 @@ Formulário para criação de eventos.<br/>
 <br>
 
 <p align="center">
-  <img alt="preview projeto formulário" src="preview.JPG" width="100%">
+  <img alt="preview projeto formulário" src="preview.JPG">
 </p>
 
 ## 🚀 Tecnologias
